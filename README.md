@@ -8,7 +8,7 @@
 
 [16-Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions](https://arxiv.org/abs/1605.07081) [Code_Matlab](https://github.com/ayanc/mdepth)
 
-[Depth Estimation by Convolutional Neural Networks](http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t) [Code_Caffe](https://github.com/janivanecky/Depth-Estimation)
+[16-Depth Estimation by Convolutional Neural Networks](http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t) [Code_Caffe](https://github.com/janivanecky/Depth-Estimation)
 
 [17-Estimated Depth Map Helps Image Classification](https://arxiv.org/abs/1709.07077) [Code](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 
