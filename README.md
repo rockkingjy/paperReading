@@ -1,5 +1,16 @@
 
-# Data Collection
+# Depth prediction from a signle image
+[14-Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283) [Code_TF](https://github.com/MasazI/cnn_depth_tensorflow)
+
+[14-Deep convolutional neural fields for depth estimation from a single image](https://arxiv.org/abs/1411.6387) [Code_ipynb](https://github.com/asousa/DepthPrediction)
+
+[16-Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) [Code TF_Matlab](https://github.com/iro-cp/FCRN-DepthPrediction)
+
+[16-Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions](https://arxiv.org/abs/1605.07081) [Code_Matlab](https://github.com/ayanc/mdepth)
+
+[Depth Estimation by Convolutional Neural Networks](http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t) [Code_Caffe](https://github.com/janivanecky/Depth-Estimation)
+
+[17-Estimated Depth Map Helps Image Classification](https://arxiv.org/abs/1709.07077) [Code](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 
 
 # Image Segmentation
