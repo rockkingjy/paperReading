@@ -6,6 +6,8 @@
 
 [16-Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) [[Code TF_Matlab](https://github.com/iro-cp/FCRN-DepthPrediction)]
 
+[CS231N (Spring 2017)-Fully Convolutional Network for Depth Estimation and Semantic Segmentation](https://github.com/iapatil/depth-semantic-fully-conv)
+
 [16-Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions](https://arxiv.org/abs/1605.07081) [[Code_Matlab](https://github.com/ayanc/mdepth)]
 
 [16-Depth Estimation by Convolutional Neural Networks](http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t) [[Code_Caffe](https://github.com/janivanecky/Depth-Estimation)]
@@ -14,8 +16,10 @@
 
 17-Unsupervised Monocular Depth Estimation with Left-Right Consistency[[Code](https://github.com/mrharicot/monodepth)]
 
-----
+### related papers:
 [16-FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture](https://github.com/tum-vision/fusenet)
+
+[Package tum_ardrone](https://github.com/tum-vision/tum_ardrone)
 
 # Image Segmentation
 [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
