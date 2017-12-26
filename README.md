@@ -4,7 +4,7 @@
 
 [14-Deep convolutional neural fields for depth estimation from a single image](https://arxiv.org/abs/1411.6387) [[Code_ipynb](https://github.com/asousa/DepthPrediction)]
 
-[16-Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) [[Code TF_Matlab](https://github.com/iro-cp/FCRN-DepthPrediction)]
+[16-FCRN-Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) [[Code TF_Matlab](https://github.com/iro-cp/FCRN-DepthPrediction)]
 
 [CS231N (Spring 2017)-Fully Convolutional Network for Depth Estimation and Semantic Segmentation](https://github.com/iapatil/depth-semantic-fully-conv)
 
