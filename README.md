@@ -12,6 +12,7 @@
 
 [17-Estimated Depth Map Helps Image Classification](https://arxiv.org/abs/1709.07077) [[Code](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)]
 
+17-Unsupervised Monocular Depth Estimation with Left-Right Consistency[[Code](https://github.com/mrharicot/monodepth)]
 
 # Image Segmentation
 [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
