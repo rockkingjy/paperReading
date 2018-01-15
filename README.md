@@ -33,6 +33,8 @@
 
 [RGB-D SLAM Dataset and Benchmark](https://vision.in.tum.de/data/datasets/rgbd-dataset)
 
+[RTAB-Map](http://introlab.github.io/rtabmap/)
+
 ### related papers:
 [16-FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture](https://github.com/tum-vision/fusenet)
 
