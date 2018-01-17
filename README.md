@@ -10,7 +10,7 @@
 
 [CS231N (Spring 2017)-Fully Convolutional Network for Depth Estimation and Semantic Segmentation](https://github.com/iapatil/depth-semantic-fully-conv)
 
-[16-Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions](https://arxiv.org/abs/1605.07081) [[Code_Matlab](https://github.com/ayanc/mdepth)]
+[16-Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions](https://arxiv.org/abs/1605.07081) [[Code_Caffe](https://github.com/ayanc/mdepth)]
 
 [16-Depth Estimation by Convolutional Neural Networks](http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t) [[Code_Caffe](https://github.com/janivanecky/Depth-Estimation)]
 
