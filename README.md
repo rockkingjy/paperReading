@@ -84,3 +84,7 @@ cc_library(
 )
 ```
 Done.
+
+# Tensorrt customer layer implementation:
+https://github.com/AastaNV/Face-Recognition
+
