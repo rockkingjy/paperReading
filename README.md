@@ -1,5 +1,7 @@
 
 # Monocamera / RGB-D to 3D reconstruction / SLAM
+[Semantic Scene Completion from a Single Depth Image](https://github.com/shurans/sscnet)
+
 [awsome 3d reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 [Multi-view 3D Reconstruction via Depth Map Fusion](https://github.com/rogermm14/rec3D)
