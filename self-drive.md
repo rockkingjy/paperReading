@@ -2,7 +2,8 @@
 
 [1711.CARLA: An Open Urban Driving Simulator](https://github.com/carla-simulator/carla): an open-source simulator for autonomous driving.
 
-
+[1604.End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316): nvidia's wonderful work using cnn with 
+3 cameras.
 
 
 # Resources
