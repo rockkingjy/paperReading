@@ -1,36 +1,36 @@
-## Papers on self-driving cars
+## Papers on self-driving cars 
 
-1712.Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars
+1712.Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars [[paper](https://arxiv.org/abs/1712.01397)]
 
 1711.CARLA: An Open Urban Driving Simulator[[Code](https://github.com/carla-simulator/carla)]: an open-source simulator for autonomous driving.
 
-1708.Deep Steering: Learning End-to-End Driving Model from Spatial and Temporal Visual Cues
+1708.Deep Steering: Learning End-to-End Driving Model from Spatial and Temporal Visual Cues [[paper](https://arxiv.org/abs/1708.03798)]
 
-1707.Failing to Learn: Autonomously Identifying Perception Failures for Self-driving Cars
+1707.Failing to Learn: Autonomously Identifying Perception Failures for Self-driving Cars [[paper](https://arxiv.org/abs/1707.00051)]
 
-1705.Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach
+1705.Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach [[paper](https://arxiv.org/abs/1705.00451)]
 
-1703.Interpretable Learning for Self-Driving Cars by Visualizing Causal Attention
+1703.Interpretable Learning for Self-Driving Cars by Visualizing Causal Attention [[paper](https://arxiv.org/abs/1703.10631)]
 
-1703.Feature Analysis and Selection for Training an End-to-End Autonomous Vehicle Controller Using the Deep Learning Approach
+1703.Feature Analysis and Selection for Training an End-to-End Autonomous Vehicle Controller Using the Deep Learning Approach [[paper]()]
 
-1702.Deep Learning Algorithm for Autonomous Driving using GoogLeNet
+1702.Deep Learning Algorithm for Autonomous Driving using GoogLeNet [[paper](https://arxiv.org/abs/1703.09744)]
 
-1702.Brain Inspired Cognitive Model with Attention for Self-Driving Cars
+1702.Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[paper](https://arxiv.org/abs/1702.05596)]
 
-1700.End-to-End Ego Lane Estimation based on Sequential Transfer Learning for Self-Driving Cars
+1700.End-to-End Ego Lane Estimation based on Sequential Transfer Learning for Self-Driving Cars [[paper](http://ieeexplore.ieee.org/document/8014892/)]
 
-1700.End-to-end Driving via Conditional Imitation Learning
+1700.End-to-end Driving via Conditional Imitation Learning [[paper](https://arxiv.org/abs/1710.02410)]
 
-1700.End-to-End Deep Reinforcement Learning for Lane Keeping Assist
+1700.End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[paper](https://arxiv.org/abs/1612.04340)]
 
-1700.A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars: focus on sensor fusing.
+1700.A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars [[paper](https://link.springer.com/article/10.1631/FITEE.1601873)]: focus on sensor fusing.
 
-1612.End-to-end Learning of Driving Models from Large-scale Video Datasets[[Code](https://github.com/gy20073/BDD_Driving_Model)]
+1612.End-to-end Learning of Driving Models from Large-scale Video Datasets [[Code](https://github.com/gy20073/BDD_Driving_Model)]
 
-1604.End to End Learning for Self-Driving Cars: nvidia's wonderful work using cnn.
+1604.End to End Learning for Self-Driving Cars [[paper](https://arxiv.org/abs/1604.07316)]: nvidia's wonderful work using cnn.
 
-1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles: A summary of these area before 2016, etter to read it first.
+1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [[paper](https://arxiv.org/abs/1604.07446)]: A summary of these area before 2016, better to read it first.
 
 Awesome Autonomous Vehicles[[Github](https://github.com/takeitallsource/awesome-autonomous-vehicles)]: Papaers and resources before 2017.
 
