@@ -31,5 +31,5 @@
 
 [17-Estimated Depth Map Helps Image Classification](https://arxiv.org/abs/1709.07077) [[Code](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)]
 
-## related papers:
+## Related papers:
 [16-FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture](https://github.com/tum-vision/fusenet)
