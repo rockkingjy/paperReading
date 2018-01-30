@@ -38,7 +38,7 @@
 
 1604.End to End Learning for Self-Driving Cars [[paper](https://arxiv.org/abs/1604.07316)]: nvidia's wonderful work using cnn.
 
-1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [[paper](https://arxiv.org/abs/1604.07446)]: A summary of these area before 2016, better to read it first.
+1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [[paper](https://arxiv.org/abs/1604.07446)]: A survey of self-driving vehicles before 2016, better to read it first.
 
 Awesome Autonomous Vehicles[[Github](https://github.com/takeitallsource/awesome-autonomous-vehicles)]: Papaers and resources before 2017.
 
