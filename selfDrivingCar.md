@@ -39,10 +39,10 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 
 4. Local Feedback Control: execute the trajectory from motion planning by a feedback controller.
 
-# Hardware Platform
+## Hardware Platform
 [Nvidia DRIVER PX2 AUTOCRUISE or AUTOCHAUFFER](https://developer.nvidia.com/drive/hardware)
 
-# Sensor Setup
+## Sensor Setup
 ### Basic:
 * 1x Inertial Navigation System (GPS/IMU)
 * 2x 120 FOV Forward Facing Camera
@@ -67,7 +67,7 @@ https://autonomoustuff.com/product/nvidia-drive-px-on-wheels/
 
 http://www.cvlibs.net/datasets/kitti/setup.php
 
-## Tasks:
+## Tasks
 1. Route Planning:
 
 Localization and Mapping
@@ -84,7 +84,6 @@ TSLR - Traffic Sign and Light Recognition
 
 Night Vision
 
-
 3. Motion Planning:
 
 Steering Wheel Auto-control
@@ -95,17 +94,48 @@ FCW - Forward Collision Warning
 
 BSD - Blind Spot Detection
 
-
 4. Local Feedback Control:
 
 Control System for Vehicle
-
 
 5. Other tasks:
 
 DOW - Door Open Warning
 
 DDW - Distracted Driver Warning
+
+## Sensors information
+简单传感器：GPS，IMU, Gyroscope + accerometer: ARRIS;
+
+视觉摄像头：精度高、可见范围远，但是害怕雾雨天；
+
+深度摄像头：ZED(0.5~20m), Microsoft Kinect 360(Range:5m;acc:1mm at 0.5m; 4cm at 5m);
+
+温度摄像头：Seek thermal: $500 https://www.thermal.com/compact-series.html ; Flir: http://www.flir.com/flirone/ ;
+
+毫米波雷达：77G远程，24G近程；1000m内；不怕雾雨天，但是精度低、可见范围短；探测移动物体，静止物体效果不好。
+
+激光雷达：精度高、可见范围远，也不怕雾雨天；Velodyne(lab use)，Quanergy、以色列Innoviz公司、德国Ibeo, etc.；
+
+Velodyne parameters: $4000，100m, http://velodynelidar.com/vlp-16.html
+
+2d Lidar: $500，https://www.slamtec.com/cn/Lidar
+
+77GHz 毫米波雷达主要用在车的正前方，用于对中远距离物体的探测。
+
+24GHz 毫米波雷达一般被安装在车后方，用于盲点检测。
+
+视觉摄像头在自动驾驶实现预警功能，而控制的实现则离不开毫米波雷达的配合。
+
+目前的毫米波雷达的主要缺陷在于精度还不够完美，例如无法非常精确的将两个物体进行区分，而视作一个物体的情况。只要毫米波雷达的波长、带宽足够，其成像效果也能与激光雷达相媲美，当然，实现成本也不低。而在国外，79~81GHZ 的毫米波雷达技术已进行预研阶段。
+
+# Autonomy Levels (Five levels): [[Wikipedia](https://en.wikipedia.org/wiki/Autonomous_car#Levels_of_driving_automation)]
+* Level 0 No automation;
+* Level 1 (”hands on”);
+* Level 2 (”hands off”);
+* Level 3 (”eyes off”);
+* Level 4 (”mind off”);
+* Level 5 Full automation;
 
 
 
