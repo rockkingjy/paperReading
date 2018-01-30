@@ -4,6 +4,7 @@
 * RGB3depth.md: RGB images -> Depth image by using DNN papers.
 * RL+Robotics.md: Reinforcement learning on Robotics.
 * selfDrivingCar.md: Self-Driving Car resources.
+* Geolocalization.md: Geolocalization papers.
 
 # Others
 ## Tensorrt customer layer implementation:
