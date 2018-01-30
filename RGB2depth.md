@@ -1,4 +1,4 @@
-# Depth prediction from a single image
+## Depth prediction from a single image
 [1407.Eigen-Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283) [[Code_TF](https://github.com/MasazI/cnn_depth_tensorflow)]: First paper in the area of DL + DP by Eigen, CNN with coarse and fine layer. Dataset: NYU, KITTI.
 
 [1412.Deep convolutional neural fields for depth estimation from a single image](https://arxiv.org/abs/1411.6387) [[Code_ipynb](https://github.com/asousa/DepthPrediction)]: CNN. Dataset: NYU, Make3D.
@@ -31,3 +31,5 @@
 
 [17-Estimated Depth Map Helps Image Classification](https://arxiv.org/abs/1709.07077) [[Code](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)]
 
+## related papers:
+[16-FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture](https://github.com/tum-vision/fusenet)
