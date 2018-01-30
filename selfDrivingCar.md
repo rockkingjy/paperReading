@@ -1,12 +1,38 @@
 ## Papers on self-driving cars
 
+1712.Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars
+
 1711.CARLA: An Open Urban Driving Simulator[[Code](https://github.com/carla-simulator/carla)]: an open-source simulator for autonomous driving.
 
-1700.End-to-end Learning of Driving Models from Large-scale Video Datasets[[Code](https://github.com/gy20073/BDD_Driving_Model)]
+1708.Deep Steering: Learning End-to-End Driving Model from Spatial and Temporal Visual Cues
 
-[1604.End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316): nvidia's wonderful work using cnn with 
-3 cameras.
+1707.Failing to Learn: Autonomously Identifying Perception Failures for Self-driving Cars
 
+1705.Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach
+
+1703.Interpretable Learning for Self-Driving Cars by Visualizing Causal Attention
+
+1703.Feature Analysis and Selection for Training an End-to-End Autonomous Vehicle Controller Using the Deep Learning Approach
+
+1702.Deep Learning Algorithm for Autonomous Driving using GoogLeNet
+
+1702.Brain Inspired Cognitive Model with Attention for Self-Driving Cars
+
+1700.End-to-End Ego Lane Estimation based on Sequential Transfer Learning for Self-Driving Cars
+
+1700.End-to-end Driving via Conditional Imitation Learning
+
+1700.End-to-End Deep Reinforcement Learning for Lane Keeping Assist
+
+1700.A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars: focus on sensor fusing.
+
+1612.End-to-end Learning of Driving Models from Large-scale Video Datasets[[Code](https://github.com/gy20073/BDD_Driving_Model)]
+
+1604.End to End Learning for Self-Driving Cars: nvidia's wonderful work using cnn.
+
+1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles: A summary of these area before 2016, etter to read it first.
+
+Awesome Autonomous Vehicles[[Github](https://github.com/takeitallsource/awesome-autonomous-vehicles)]: Papaers and resources before 2017.
 
 ## Resources
 
@@ -14,8 +40,6 @@ The Autonomous Driving Cookbook from Microsoft[[Code](https://github.com/Microso
 
 Udacity open source self-driving car programme[[Code](https://github.com/udacity/self-driving-car)]: Udacity programme, some dataset
 and model available.
-
-[Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles): Papaers and resources before 2017.
 
 
 ## Simulators
@@ -129,7 +153,7 @@ Velodyne parameters: $4000，100m, http://velodynelidar.com/vlp-16.html
 
 目前的毫米波雷达的主要缺陷在于精度还不够完美，例如无法非常精确的将两个物体进行区分，而视作一个物体的情况。只要毫米波雷达的波长、带宽足够，其成像效果也能与激光雷达相媲美，当然，实现成本也不低。而在国外，79~81GHZ 的毫米波雷达技术已进行预研阶段。
 
-# Autonomy Levels (Five levels): [[Wikipedia](https://en.wikipedia.org/wiki/Autonomous_car#Levels_of_driving_automation)]
+## Autonomy Levels (Five levels): [[Wikipedia](https://en.wikipedia.org/wiki/Autonomous_car#Levels_of_driving_automation)]
 * Level 0 No automation;
 * Level 1 (”hands on”);
 * Level 2 (”hands off”);
