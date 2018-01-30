@@ -1,4 +1,4 @@
-# Papers on self-driving cars
+## Papers on self-driving cars
 
 1711.CARLA: An Open Urban Driving Simulator[[Code](https://github.com/carla-simulator/carla)]: an open-source simulator for autonomous driving.
 
@@ -8,7 +8,7 @@
 3 cameras.
 
 
-# Resources
+## Resources
 
 The Autonomous Driving Cookbook from Microsoft[[Code](https://github.com/Microsoft/AutonomousDrivingCookbook)]: now available for training in AirSim.
 
@@ -18,17 +18,18 @@ and model available.
 [Awesome Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles): Papaers and resources before 2017.
 
 
-# Simulators
+## Simulators
 
 AirSim, Simulator for Drones, Cars from Micorsoft [[Code](https://github.com/Microsoft/AirSim)].
 
 [CARLA](http://www.carla.org), An Open Urban Driving Simulator.
 
-# Datasets
+## Datasets
 
 Check the table in this paper:[1612.End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/pdf/1612.01079.pdf)
 
-# Hierarchy of decision making system of a self-driving car [Reference: [1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)]
+## Hierarchy of decision making system of a self-driving car 
+[Reference: [1604.A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)]
 
 1. Route Planning: select a route from its current position to the destination.
 
@@ -42,7 +43,7 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 [Nvidia DRIVER PX2 AUTOCRUISE or AUTOCHAUFFER](https://developer.nvidia.com/drive/hardware)
 
 # Sensor Setup
-## Basic:
+### Basic:
 * 1x Inertial Navigation System (GPS/IMU)
 * 2x 120 FOV Forward Facing Camera
 * 2x 120 FOV Side Facing Camera
@@ -50,21 +51,14 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 * 1x Lidar
 
 Medium:
-
 * 6x Radars
-
 * 1x Thermal camera
-
 * 1x Depth camera
 
 Advanced:
-
 * 1x 360 deg RGB camera
-
 * 2x 120 FOV Blind Spot Camera
-
 * 2x 120 FOV Front Medium Range Camera
-
 * 2x 60 FOV Long Range Cross Traffic Camera
 
 Reference:
@@ -72,3 +66,46 @@ Reference:
 https://autonomoustuff.com/product/nvidia-drive-px-on-wheels/
 
 http://www.cvlibs.net/datasets/kitti/setup.php
+
+## Tasks:
+1. Route Planning:
+
+Localization and Mapping
+
+Algorithms for finding a minimum-cost path
+
+2. Behavioral Layer:
+
+LDW - Lane Departure Warning
+
+LKA - Lane Keep Assist
+
+TSLR - Traffic Sign and Light Recognition
+
+Night Vision
+
+
+3. Motion Planning:
+
+Steering Wheel Auto-control
+
+AVM - Around View Monitor
+
+FCW - Forward Collision Warning
+
+BSD - Blind Spot Detection
+
+
+4. Local Feedback Control:
+
+Control System for Vehicle
+
+
+5. Other tasks:
+
+DOW - Door Open Warning
+
+DDW - Distracted Driver Warning
+
+
+
