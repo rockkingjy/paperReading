@@ -1,3 +1,11 @@
+## Autonomy Levels (Five levels): [[Wikipedia](https://en.wikipedia.org/wiki/Autonomous_car#Levels_of_driving_automation)]
+* Level 0 No automation;
+* Level 1 (”hands on”);
+* Level 2 (”hands off”);
+* Level 3 (”eyes off”);
+* Level 4 (”mind off”);
+* Level 5 Full automation;
+
 ## Papers on self-driving cars 
 
 1712.Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars [[paper](https://arxiv.org/abs/1712.01397)]
@@ -40,7 +48,6 @@ The Autonomous Driving Cookbook from Microsoft[[Code](https://github.com/Microso
 
 Udacity open source self-driving car programme[[Code](https://github.com/udacity/self-driving-car)]: Udacity programme, some dataset
 and model available.
-
 
 ## Simulators
 
@@ -153,13 +160,6 @@ Velodyne parameters: $4000，100m, http://velodynelidar.com/vlp-16.html
 
 目前的毫米波雷达的主要缺陷在于精度还不够完美，例如无法非常精确的将两个物体进行区分，而视作一个物体的情况。只要毫米波雷达的波长、带宽足够，其成像效果也能与激光雷达相媲美，当然，实现成本也不低。而在国外，79~81GHZ 的毫米波雷达技术已进行预研阶段。
 
-## Autonomy Levels (Five levels): [[Wikipedia](https://en.wikipedia.org/wiki/Autonomous_car#Levels_of_driving_automation)]
-* Level 0 No automation;
-* Level 1 (”hands on”);
-* Level 2 (”hands off”);
-* Level 3 (”eyes off”);
-* Level 4 (”mind off”);
-* Level 5 Full automation;
 
 
 
