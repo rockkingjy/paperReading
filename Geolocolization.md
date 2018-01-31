@@ -1,4 +1,5 @@
-1708.A Unified Model for Near and Remote Sensing [[paper](https://arxiv.org/abs/1708.03035)]
+* 1708.A Unified Model for Near and Remote Sensing [[paper](https://arxiv.org/abs/1708.03035)]
+Key idea is to learn the relationship between "ground level appearance" and "over-head appearance" and "land cover attributes" from sparsely available geotagged ground-level images.
 
 1705.Revisiting IM2GPS in the Deep Learning Era [[paper](https://arxiv.org/abs/1705.04838v1)]
 
