@@ -6,7 +6,3 @@
 * selfDrivingCar.md: Self-Driving Car resources.
 * Geolocalization.md: Geolocalization papers.
 
-# Others
-## Tensorrt customer layer implementation:
-https://github.com/AastaNV/Face-Recognition
-
