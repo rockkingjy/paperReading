@@ -70,7 +70,7 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 
 4. Local Feedback Control: execute the trajectory from motion planning by a feedback controller.
 
-## Four solutions
+## Four questions need to be solved
 [Reference: [Waymo Safety Report: On the Road to Fully Self-Driving](https://storage.googleapis.com/sdc-prod/v1/safety-report/waymo-safety-report-2017-10.pdf)]
 
 1. Where am I? 
