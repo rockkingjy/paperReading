@@ -70,6 +70,26 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 
 4. Local Feedback Control: execute the trajectory from motion planning by a feedback controller.
 
+## Four solutions
+[Reference: [Waymo Safety Report: On the Road to Fully Self-Driving](https://storage.googleapis.com/sdc-prod/v1/safety-report/waymo-safety-report-2017-10.pdf)]
+
+1. Where am I? 
+
+The precise (3d) map of the envirement.
+
+2. What's around me?
+
+Recogonize the pedestrians, traffic sign/light, cars, obstructs etc. aroud us by the sensors.
+
+3. What will happened next?
+
+Predict the future movements of the objects around us like other vehicles, cyclists, pedestians etc. according
+to the speed and trajectory of them. 
+
+4. What should I do?
+
+Choose the trajectory, speed, direction, lane etc. to go.
+
 ## Customized Car provider for self-driving car
 [AutonomouStuff](https://autonomoustuff.com/)
 
