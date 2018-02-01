@@ -70,8 +70,13 @@ Check the table in this paper:[1612.End-to-end Learning of Driving Models from L
 
 4. Local Feedback Control: execute the trajectory from motion planning by a feedback controller.
 
+## Customized Car provider for self-driving car
+[AutonomouStuff](https://autonomoustuff.com/)
+
 ## Hardware Platform
 [Nvidia DRIVER PX2 AUTOCRUISE or AUTOCHAUFFER](https://developer.nvidia.com/drive/hardware)
+
+[Nuvo-6108GC](https://www.logicsupply.com/uk-en/nuvo-6108gc/)
 
 ## Sensor Setup
 ### Basic:
