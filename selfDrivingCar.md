@@ -53,6 +53,8 @@ and model available.
 
 AirSim, Simulator for Drones, Cars from Micorsoft [[Code](https://github.com/Microsoft/AirSim)].
 
+[Udacity Simulator](https://github.com/udacity/self-driving-car-sim)
+
 [CARLA](http://www.carla.org), An Open Urban Driving Simulator.
 
 ## Datasets
