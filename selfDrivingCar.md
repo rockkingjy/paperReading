@@ -165,7 +165,9 @@ DDW - Distracted Driver Warning
 
 视觉摄像头：精度高、可见范围远，但是害怕雾雨天；
 
-深度摄像头：ZED(0.5~20m), Microsoft Kinect 360(Range:5m;acc:1mm at 0.5m; 4cm at 5m);
+Round view camera: insta360 pro;
+
+深度摄像头：ZED(0.5~20m), Microsoft Kinect 360(Range:5m;acc:1mm at 0.5m; 4cm at 5m), Intel realsense d435;
 
 温度摄像头：Seek thermal: $500 https://www.thermal.com/compact-series.html ; Flir: http://www.flir.com/flirone/ ;
 
