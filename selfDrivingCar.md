@@ -189,6 +189,8 @@ Velodyne parameters: $4000，100m, http://velodynelidar.com/vlp-16.html
 
 目前的毫米波雷达的主要缺陷在于精度还不够完美，例如无法非常精确的将两个物体进行区分，而视作一个物体的情况。只要毫米波雷达的波长、带宽足够，其成像效果也能与激光雷达相媲美，当然，实现成本也不低。而在国外，79~81GHZ 的毫米波雷达技术已进行预研阶段。
 
+## Other
 
+Source code of all the projects of Udacity Self-Driving Car Engineer Nanodegree [[Code](https://github.com/ndrplz/self-driving-car)]
 
 
