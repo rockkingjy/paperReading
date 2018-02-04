@@ -6,17 +6,19 @@
 
 * Practical Black-Box Attacks against Machine Learning [[paper](https://arxiv.org/pdf/1602.02697.pdf)]
 
-* 1700.Towards Evaluating the Robustness of Neural Networks [[Code](https://github.com/carlini/nn_robust_attacks)]
+* 1700.Towards Evaluating the Robustness of Neural Networks [[code](https://github.com/carlini/nn_robust_attacks)]
 
-* 1702.openAI.Attacking Machine Learning with Adversarial Examples [[Blog](https://blog.openai.com/adversarial-example-research/)]
+* 1702.openAI.Attacking Machine Learning with Adversarial Examples [[blog](https://blog.openai.com/adversarial-example-research/)]
 
 * 1701.Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks [[paper](https://arxiv.org/pdf/1701.04143.pdf)]
 
-* 1610.cleverhans v2.0.0: an adversarial machine learning library [[paper](https://arxiv.org/pdf/1610.00768.pdf)]
+* 1610.cleverhans v2.0.0: an adversarial machine learning library [[paper](https://arxiv.org/pdf/1610.00768.pdf)] [[code](https://github.com/tensorflow/cleverhans)]
 
 * 1607.Adversarial examples in the physical world [[paper](https://arxiv.org/pdf/1607.02533.pdf)]
 
 * 1602.Practical Black-Box Attacks against Machine Learning [[paper](https://arxiv.org/pdf/1602.02697.pdf)]
+
+* 1511.Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks [[paper](https://arxiv.org/pdf/1511.04508.pdf)]
 
 * 1412.Explaining and Harnessing Adversarial Examples [[paper](https://arxiv.org/pdf/1412.6572.pdf)]
 
