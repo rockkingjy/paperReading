@@ -16,7 +16,7 @@
 
 * 1607.Adversarial examples in the physical world [[paper](https://arxiv.org/pdf/1607.02533.pdf)]
 
-* 1602.Practical Black-Box Attacks against Machine Learning [[paper](https://arxiv.org/pdf/1602.02697.pdf)]
+* 1602.Practical Black-Box Attacks against Machine Learning [[paper](https://arxiv.org/pdf/1602.02697.pdf)]: trying to deny the attacker access to a useful gradient.
 
 * 1511.Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks [[paper](https://arxiv.org/pdf/1511.04508.pdf)]
 
