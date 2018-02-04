@@ -3,6 +3,7 @@
 * Images.md: Image realted papers.
 * RGB3depth.md: RGB images -> Depth image by using DNN papers.
 * RL+Robotics.md: Reinforcement learning on Robotics.
-* selfDrivingCar.md: Self-Driving Car resources.
+* SelfDrivingCar.md: Self-Driving Car resources.
 * Geolocalization.md: Geolocalization papers.
+* SecurityAI.md: Security of AI.
 
