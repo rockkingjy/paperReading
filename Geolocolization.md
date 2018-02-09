@@ -1,5 +1,6 @@
 * 1708.A Unified Model for Near and Remote Sensing [[paper](https://arxiv.org/abs/1708.03035)]:
 
+* 1707.Learned Contextual Feature Reweighting for Image Geo-Localization [[Project](http://hyojin.web.unc.edu/crn/)]
 
 * 1705.Revisiting IM2GPS in the Deep Learning Era [[paper](https://arxiv.org/abs/1705.04838v1)]
 
